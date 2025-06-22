@@ -1,7 +1,7 @@
 
 # 🧳 Travel Form Web App
 
-A simple web form to collect trip participation details using **HTML**, **PHP**, and **MySQL**.
+A simple web form to collect trip participation details using **HTML**,**CSS** **PHP**, and **MySQL**.
 
 ---
 
